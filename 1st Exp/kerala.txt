@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Kerala</title>
+</head>
+<body>
+<img src="kerala.jpg" width="600" height="400" >
+<p style="text_align:center;">
+Kerala,a state on India's tropical malabar coast ,has nearly 600km of Arabian sea shore line.
+</p>
+</body>
+</html>

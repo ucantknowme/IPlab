@@ -1,0 +1,6 @@
+h3{font-family:Iceland;font-size:20;color:cyan}
+table{border-color:green}
+td{font-size:20pt;color:magenta}
+body {
+  background-image: url("paper.gif");
+}

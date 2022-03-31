@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>RMKCET</title>
+<marquee><h1>COLLEGE</h1></marquee>
+<link rel="stylesheet" href="xyz.css" type="text/css">
+<style type="text/css">
+.vid{font-family:Monoton;font-style:italic;color:red;text-align:center}
+.ani{font-family:tahoma;font-style:italic;font-size:20;text-align:center;}
+font{font-family:georgia;color:blue;font-size:20}
+ul{list-style-type:circle}
+</style>
+</head>
+<body>
+<ol style="list-style-type:lower-alpha">
+<b>R.M.K GROUP OF INSTITUTION </b><br>
+<li> R.M.K ENGINEERING COLLEGE
+<li> R.M.D ENGINEERING COLLEGE
+<li> R.M.K COLLEGE OF ENGINEERING AND TECHNOLOGY
+</ol>
+<p class="ani"> R.M.K. COLLEGE OF ENGINEERING AND TECHNOLOGY <br>It is a Approved by AICTE(All India Council for Technical Education).It is affiliated to Anna University.<br></p>
+<h2 class="vid"> R.M.K. COLLEGE OF ENGINEERING AND TECHNOLOGY </h2>
+<br><font>It is an ISO certified Institution</font><br>
+<h2> List Of Courses Offered</h2>
+</html>

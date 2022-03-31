@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Delhi</title>
+</head>
+<body>
+<img src="delhi.jpg" width="500" height="300" >
+<p style="text_align:center;">
+Delhi,India's capital territory,is a massive metropolitan area in the country's north.
+</p>
+</body>
+</html>

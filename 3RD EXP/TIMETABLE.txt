@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>TIMETABLE</title>
+</head>
+<body>
+<marquee><H2>COMPUTER SCIENCE AND ENGINEERING TIME TABLE</H2></marquee>
+<table width="80%" cellspacing="5" cellpadding="5" border="5">
+    <tr>
+    <th>TIME TABLE</th>
+    <th>FIRST</th>
+    <th>SECOND</th>
+    <th>THIRD</th>
+    <th>FOURTH</th>
+    <th>FIFTH</th>
+    <th>SIXTH</th>
+    <th>SEVENTH</th>
+    </tr>
+    <tr> 
+    <td align="center">MONDAY</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">FEROZ</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    </tr>
+    <tr> 
+    <td align="center">TUESDAY</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">FEROZ</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    </tr>
+    <tr> 
+    <td align="center">WEDNESDAY</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">FEROZ</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    </tr>
+    <tr> 
+    <td align="center">THURSDAY</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">FEROZ</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">INTERNET PROGRAMMING LABORARTORY</td>
+    <td align="center">INTERNET PROGRAMMING LABORARTORY</td>
+    </tr>
+    <tr> 
+    <td align="center">FRIDAY</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">FEROZ</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    </tr>
+    <tr> 
+    <td align="center">SATURDAY</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">FEROZ</td>
+    <td align="center">90</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    <td align="center">PASS</td>
+    </tr>
+</body>
+</html>
